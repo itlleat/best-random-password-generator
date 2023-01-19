@@ -1,3 +1,21 @@
+# Welcome to Best Random Password Generator
+
+Welcome. This webpage is designed to generate a random password between 8 and 128 characters for the user using a combination of uppercase and lowercase letters, numbers, and a selection of special characters. The user does not have to use all of the characters offered but the password length must fit the stated criteria or the user will be alerted to do so. The user will be prompted to select at least one character type if the user selects none. The user needs to click on the "Generate Password" button to begin the proccess.
+
+## Screenshot
+
+![ScreenShot](./Assets/Screen%20Shot%202023-01-18%20at%201.55.32%20PM.png)
+
+## Link
+
+
+# *PLEASE READ*
+
+Lines 1-143 of script.js are my original code base. I've commented them out for reference. The code functioned the way it needed to in the console but I was having major problems getting the generated password to display in the window on the page itself. I'd like to credit ReindeerCode on github and his collaboraters Ethan Wagner and Aren Salmela for coming up with solutions that I could interpret and refine to my liking within my own code base. 
+
+
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
