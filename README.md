@@ -8,6 +8,8 @@ Welcome. This webpage is designed to generate a random password between 8 and 12
 
 ## Link
 
+https://itlleat.github.io/best-random-password-generator/
+
 
 # *PLEASE READ*
 
